@@ -86,10 +86,7 @@ Follow these steps to set up SoleSuite on your local environment:
 
 ## Access the Application  
 
-1. Open a browser and navigate to:  `http://localhost/SoleSuite`
-
-
-2. Follow the on-screen instructions to log in or set up your application.  
+TBD  
 
 ---
 
@@ -103,7 +100,7 @@ Follow these steps to set up SoleSuite on your local environment:
 
 ## Screenshots  
 
-*(Add screenshots of your application interface here to help users visualize the project.)*  
+*(TBD)*  
 
 ---
 
